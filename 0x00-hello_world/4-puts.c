@@ -2,11 +2,7 @@
 #include <string.h>
 /**
  * main - function that prints string
- * @parameterx: no parameters 
-(* a blank line
- * Description: Longer description 
-(* section header: Section description)*
- * Return:  value 0
+ * Return: return 0
  */
 int main(void)
 {
