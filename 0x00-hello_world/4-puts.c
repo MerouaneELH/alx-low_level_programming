@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-/*
+/**
  * this code prints string using puts function
  */
 int main(void)
